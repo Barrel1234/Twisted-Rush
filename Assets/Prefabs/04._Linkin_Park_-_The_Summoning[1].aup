@@ -1,0 +1,82 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="04._Linkin_Park_-_The_Summoning[1]_data" version="1.3.0" audacityversion="2.3.0" sel0="0.0000000000" sel1="53.1762131519" vpos="0" h="0.0000000000" zoom="22.7357336957" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="TITLE" value="The Summoning"/>
+		<tag name="Band" value="Linkin Park"/>
+		<tag name="ARTIST" value="Linkin Park"/>
+		<tag name="YEAR" value="2014"/>
+		<tag name="ALBUM" value="The Hunting Party"/>
+		<tag name="Part of a set" value="1/2"/>
+		<tag name="GENRE" value="Alternative"/>
+		<tag name="TRACKNUMBER" value="04/12"/>
+	</tags>
+	<wavetrack name="04._Linkin_Park_-_The_Summoning[1]" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="2345071">
+				<waveblock start="0">
+					<simpleblockfile filename="e08083d6.au" len="262144" min="-0.224987" max="0.227062" rms="0.054889"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0808ec3.au" len="262144" min="-0.276001" max="0.277717" rms="0.056101"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0808db5.au" len="262144" min="-0.850222" max="0.839373" rms="0.091767"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e0808b48.au" len="262144" min="-0.365315" max="0.324642" rms="0.078672"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e0808e90.au" len="262144" min="-0.85708" max="0.863359" rms="0.138508"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="e08086fa.au" len="262144" min="-0.391991" max="0.421986" rms="0.087017"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e0808c21.au" len="262144" min="-0.79487" max="0.877048" rms="0.175311"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<simpleblockfile filename="e08089f6.au" len="262144" min="-0.860579" max="0.866753" rms="0.239775"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="e0808733.au" len="247919" min="-0.877792" max="0.884921" rms="0.283871"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="04._Linkin_Park_-_The_Summoning[1]" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="2345071">
+				<waveblock start="0">
+					<simpleblockfile filename="e080876e.au" len="262144" min="-0.211769" max="0.211441" rms="0.051629"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e080827c.au" len="262144" min="-0.25722" max="0.249747" rms="0.052586"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0808b68.au" len="262144" min="-0.885467" max="0.832624" rms="0.080453"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e080825a.au" len="262144" min="-0.401619" max="0.433213" rms="0.074731"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e0808069.au" len="262144" min="-0.860547" max="0.85282" rms="0.129677"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="e0808d81.au" len="262144" min="-0.716257" max="0.551488" rms="0.108876"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e08088a1.au" len="262144" min="-0.692335" max="0.842909" rms="0.169077"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<simpleblockfile filename="e0808f65.au" len="262144" min="-0.838598" max="0.855724" rms="0.221785"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="e0808c8f.au" len="247919" min="-0.864182" max="0.891251" rms="0.259069"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
